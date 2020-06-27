@@ -77,13 +77,15 @@ AttributeError                            Traceback (most recent call last)
 ----> 1 keluarga_ucup.upper()
 
 AttributeError: 'list' object has no attribute 'upper'
-Menggunakan External Library
+
+## Menggunakan External Library
 So far, kita telah mengenal fungsi bawaan dari python. Fungsi bawaan adalah fungsi yang sudah ada di python tanpa kita harus menginstall apapun. Namun di python juga ada berbagai fungsi, method, object yang bukan merupakan bawaan dari python, tapi hasil kerja dari orang lain yang telah membagikannya kepada kita, sesuatu ini kita namakan external library. Kita bisa menggunakan external library tersebut dengan cara menginstallnya dan kemudian menggunakannya di kode kita.
 
 Ada banyak sekali external library di python. Beberapa external library yang sangat penting untuk data science adalah numpy, pandas, skit-learn, dan lain sebagainya.
 
 Cara untuk menginstall external library ini, yang paling mudah adalah dengan menggunakan package manager. Di python package manager ini bernama ‘pip’, contohnya bila kita ingin menginstsall library numpy, maka kita cukup membuka command prompt lalu ketikan ‘pip install numpy’, seperti contoh berikut :
 
+https://blog.sanbercode.com/wp-content/uploads/2020/04/image-4.png
 
 Untuk menggunakan external library di kode python kita, kita terlebih dahulu memanggil library tersebut menggunakan suatu keyword yaitu ‘import’. Berikut adalah contoh memanggil dan menggunakan external library di python :
 
@@ -126,3 +128,6 @@ Docs python :
   * https://docs.python.org/3/library/functions.html
   * https://docs.python.org/3/tutorial/controlflow.html
   
+
+https://blog.sanbercode.com/docs/kurikulum-python-data-science/week-1/functions-and-getting-help/
+

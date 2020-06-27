@@ -25,3 +25,6 @@ List artikel:
 Docs Python
   * https://docs.python.org/3/tutorial/introduction.html
 
+
+https://blog.sanbercode.com/docs/kurikulum-python-data-science/week-1/hello-python/
+

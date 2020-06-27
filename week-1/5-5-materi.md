@@ -401,3 +401,8 @@ https://www.academia.edu/25566517/Variansi_and_Kovariansi
 Rekomendasi Bacaan:
 https://tau-data.id/tipe-data-dm-ds/
 https://tau-data.id/model-statistika-data-mining-data-science/
+
+
+
+https://blog.sanbercode.com/docs/kurikulum-python-data-science/week-1/hari-5-statistika-deskriptif/
+

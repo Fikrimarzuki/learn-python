@@ -156,3 +156,5 @@ https://www.it-swarm.dev/id/python/jatuhkan-kolom-yang-namanya-berisi-string-spe
 
 
 
+https://blog.sanbercode.com/docs/kurikulum-python-data-science/week-2/day-2-videos-1-mengakses-dataframe-dengan-index/
+

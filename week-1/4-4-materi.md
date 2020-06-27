@@ -301,3 +301,6 @@ If-elif-else
 Fungsi
 List
 Library/Module Random
+
+
+https://blog.sanbercode.com/docs/kurikulum-python-data-science/week-1/python-list/

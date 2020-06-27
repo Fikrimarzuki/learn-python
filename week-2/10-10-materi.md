@@ -97,3 +97,8 @@ Video Pembelajaran
 Belajar Pandas : Mengubah Struktur Data dengan Teknik Pivoting: https://youtu.be/RcsrSayym5U
 
 Belajar Pandas : Mengubah Struktur Data dengan Teknik Melting: https://youtu.be/4UCiUozb0ZQ
+
+
+
+https://blog.sanbercode.com/docs/kurikulum-python-data-science/week-2/day-3-videos/
+

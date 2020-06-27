@@ -145,3 +145,7 @@ Docs Python:
   * https://docs.python.org/3/tutorial/controlflow.html
   * https://docs.python.org/3/library/operator.html?highlight=operator
   
+  
+
+https://blog.sanbercode.com/docs/kurikulum-python-data-science/week-1/logic-control-flow-and-loop/
+

@@ -151,3 +151,6 @@ https://petruknisme.com/2019/04/15/pengenalan-pandas-dan-series/
 https://code.tutsplus.com/id/tutorials/introducing-pandas–cms-26514
 
 
+
+https://blog.sanbercode.com/docs/kurikulum-python-data-science/week-2/pandas-foundation/
+
